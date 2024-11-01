@@ -1,0 +1,21 @@
+#swstats-widget {
+	
+	.inside {
+		position: relative;
+		margin: 0;
+		padding: 12px 12px 8px 12px;
+		cursor: pointer;
+	}
+	
+	.inner {
+		grid-gap: 12px;
+		min-height: 321px;
+	}
+	
+	.chart {
+		height: 160px;
+		margin-top: 4px;
+	}
+	
+}
+
